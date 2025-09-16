@@ -2,7 +2,7 @@
 
 1. DeepFake_Detection - This is the root folder.
 
-3. Project-Setup.txt - In this file we've written all the necessary steps to run this project.
+3. Project-Setup.txt - all the necessary steps to run this project.
 
 4. Requirements.txt - Python libraries needed for this project. 
 
