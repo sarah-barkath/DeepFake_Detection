@@ -1,4 +1,4 @@
-# DeepFake Detection - Simplified!
+# DeepFake Detection 
 
 1. DeepFake_Detection - This is the root folder.
 
